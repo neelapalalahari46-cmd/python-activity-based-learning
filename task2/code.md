@@ -76,4 +76,3 @@ Refund Amount: 760.0
 Total Railway Collection: 690.0
 ```
 
-Note: The distance rates, class multipliers, concessions, reservation fee, and cancellation penalty used here are assumed values for a basic Python academic assignment, not actual railway tariff rules.
