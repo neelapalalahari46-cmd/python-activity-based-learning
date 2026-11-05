@@ -73,4 +73,3 @@ Occupied Seats: 8
 Available Seats: 4
 ```
 
-Note: This is a basic BTech first-year Python program using nested lists, loops, conditional statements, and sets.
