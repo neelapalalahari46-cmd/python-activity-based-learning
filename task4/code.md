@@ -1,5 +1,3 @@
-## Manufacturing Cost and Profitability Analysis
-
 ### 1. Problem Statement
 
 Develop a Python program to calculate manufacturing costs and analyze product profitability. Calculate material costs, labour charges, wastage costs, and machine costs. Determine the total production cost, selling price, profit, and profit percentage. Finally, identify whether the production meets the specified profit target.
@@ -72,4 +70,3 @@ Profit Percentage: 16.67 %
 Result: Profit Target Achieved
 ```
 
-Note: All cost values and wastage percentages are assumed for this basic BTech first-year Python assignment. Profit percentage is calculated based on total manufacturing cost.
