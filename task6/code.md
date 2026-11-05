@@ -1,5 +1,3 @@
-## ATM Transaction Sequence Simulation
-
 ### 1. Problem Statement
 
 Develop a Python program to simulate ATM transactions by processing multiple deposits and withdrawals. Maintain the account balance after every transaction, enforce daily withdrawal limits, reject invalid transactions such as insufficient balance or negative amounts, and generate a final transaction summary showing total deposits, withdrawals, rejected transactions, and available balance.
@@ -97,4 +95,4 @@ Daily Withdrawal Limit: 5000.0
 Remaining Withdrawal Limit: 1000.0
 ```
 
-Note: The initial balance, withdrawal limit, and transaction amounts are assumed values for this basic BTech first-year Python assignment. The withdrawal limit applies to the total successful withdrawals during the simulated day.
+
