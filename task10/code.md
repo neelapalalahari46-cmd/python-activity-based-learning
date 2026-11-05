@@ -1,5 +1,3 @@
-## Student Performance Trend Analysis
-
 ### 1. Problem Statement
 
 Develop a Python program to analyze student performance across multiple examinations. Calculate subject-wise average scores, compare assessment marks to identify improvements and declines, detect consistently weak subjects, and classify students based on their overall performance using specified criteria. Generate a final performance report for each student.
@@ -87,4 +85,3 @@ Classification: Average
 Performance Analysis Completed
 ```
 
-Note: The examination marks and classification criteria are assumed for this basic BTech first-year Python assignment. A subject is considered consistently weak when its marks are below 40 in all three examinations.
