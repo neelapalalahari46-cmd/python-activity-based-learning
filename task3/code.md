@@ -1,5 +1,3 @@
-## Retail Billing with Multiple Discount Rules
-
 ### 1. Problem Statement
 
 Develop a Python program to generate a retail bill for multiple products. Calculate product-wise prices based on quantities, apply category-specific taxes, provide discounts based on purchase amount, and enforce maximum discount limits. Finally, generate an itemized invoice showing the total amount, discount, tax, and final bill.
@@ -83,4 +81,3 @@ Final Bill: 4060.0
 =============================
 ```
 
-Note: Tax rates, discount percentages, and maximum concession are assumed values for this academic Python program. Actual retail taxes may differ by product and applicable tax rules.
