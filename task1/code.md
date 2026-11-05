@@ -1,5 +1,3 @@
-## Campus Event Seating and Entry Validation
-
 ### 1. Problem Statement
 
 Develop a Python program to manage campus event seating and entry validation. Generate seating assignments using nested lists, validate tickets using registration IDs, detect duplicate entries, and calculate the available seating capacity.
