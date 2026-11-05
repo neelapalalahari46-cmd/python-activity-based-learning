@@ -1,5 +1,3 @@
-## Smart Parking Fee Management
-
 ### 1. Problem Statement
 
 Develop a Python program to manage parking fees by calculating charges based on vehicle entry and exit times. Consider different vehicle categories, overnight parking, daily parking limits, and penalty conditions. Validate time inputs and generate a final parking bill showing parking duration, applicable charges, penalties, and total amount.
@@ -87,4 +85,3 @@ Total Vehicles: 2
 Total Collection: 210
 ```
 
-Note: The parking rates, daily limit, and overnight penalty are assumed values for this BTech first-year Python assignment. The program assumes that if the exit time is earlier than the entry time, the vehicle exits on the following day.
