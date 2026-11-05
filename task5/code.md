@@ -1,5 +1,3 @@
-## Attendance Recovery Computation
-
 ### 1. Problem Statement
 
 Develop a Python program to calculate students' current attendance percentages and determine the minimum number of consecutive classes required to reach a specified attendance eligibility threshold. Consider different future attendance scenarios, such as attending all upcoming classes or missing some classes. Display the current attendance percentage, required classes, and eligibility status.
@@ -68,4 +66,3 @@ Eligibility: Achieved
 Eligibility: Not Achieved
 ```
 
-Note: This program assumes a 10-class future period for each scenario. The minimum consecutive classes calculation assumes the student attends every upcoming class without missing any. Eligibility percentages are assumed inputs and can be changed according to college rules.
