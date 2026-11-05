@@ -1,5 +1,3 @@
-## Warehouse Inventory Reconciliation
-
 ### 1. Problem Statement
 
 Develop a Python program to perform warehouse inventory reconciliation for multiple products. Compare opening stock, incoming quantities, dispatched quantities, and actual closing stock. Identify stock discrepancies, calculate expected closing stock, and determine the replenishment quantity required to maintain the minimum stock level.
@@ -91,4 +89,3 @@ Replenishment Required: 0
 Inventory Reconciliation Completed
 ```
 
-Note: This is a basic BTech first-year Python program using loops, conditional statements, arithmetic operations, and the `max()` function. Replenishment is calculated based on actual closing stock and minimum stock level.
