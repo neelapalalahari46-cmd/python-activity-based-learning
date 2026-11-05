@@ -1,5 +1,3 @@
-## Multi-Day Water Tank Simulation
-
 ### 1. Problem Statement
 
 Develop a Python program to simulate water tank levels over multiple days. Process changing water inflow and outflow quantities, update the water level after each interval, detect overflow and water shortages, and determine the first interval in which the tank reaches a specified water-level threshold. Finally, display a complete water tank monitoring report.
@@ -103,4 +101,4 @@ First Threshold Reached: Day 2
 Simulation Completed
 ```
 
-Note: Tank capacity, initial water level, and daily inflow/outflow values are assumed for this basic BTech first-year Python assignment. The program assumes excess water is lost during overflow and shortages are recorded when demand exceeds available water.
+
